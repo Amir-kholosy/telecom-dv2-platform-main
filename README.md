@@ -10,7 +10,7 @@ It integrates multiple telecom data sources and builds scalable ETL pipelines to
 ## Dashboards
 ![Dashboard](./Screenshots/Screenshot%202026-05-20%20121556.png)
 ![Dashboard](./Screenshots/Screenshot%202026-05-20%20121612.png)
-
+<img width="1310" height="737" alt="Screenshot 2026-05-19 220407" src="https://github.com/user-attachments/assets/23639b4a-90bf-4f4b-8c6e-383fe03e0001" />
 
 
 ---
